@@ -2,6 +2,9 @@
 #include <string.h>
 #include <ctype.h>
 
+// Author: fadedave <fadedave77 ät fadedave.com>
+// Licensed under the AGPL license <https://www.gnu.org/licenses/agpl-3.0.html>
+
 #define WIDTH 16
 
 void printLine(int chars[], int len, long addr) {
