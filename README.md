@@ -17,6 +17,8 @@ Don't expect to find anything meaningful nor useful in the repository. Also, I h
 
 The rest of this README file is mostly random stuff.
 
+Hogy halt meg Cauchy? - Kapott egy sorozatot.
+
 Clone the repository with: `git clone https://github.com/zpqrtbnk/test-repo.git .`
 
 We have test GitHUb pages (from the `gh-pages` branch) at: http://zpqrtbnk.github.io/test-repo/ 
