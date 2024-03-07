@@ -26,7 +26,7 @@ We have an image in the README (markdown)
 
 We have an image in the README (html)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="./wtf.jpg"/>
+  <img src="./thinking_emoji.png"/>
 </a>
 
 
