@@ -32,7 +32,7 @@ We have an image in the README (html)
 
 We have an image in the README (more html)
 <p align="center" style="background:#000;padding:5px;color:#fff;font-size:150%;margin-bottom:64px">
-    <img src="./wtf.jpg" />
-    <span style="margin-left:48px;">wubble</span>
+    <img src="./lábas_vizsla.png" />
+    <span style="margin-left:48px;">woof</span>
 </p>
 
